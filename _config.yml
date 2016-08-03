@@ -1,4 +1,3 @@
-layout_spectrum: 0.5571743145119399
 typography_spectrum: 0.6736030913889408
 color:
   brandStrength: 0.14762926031835377
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.5571743145119399
 name: Darren Bowyer
+title: Too Much
 description: information
